@@ -1,0 +1,12 @@
+*{
+    background-color: white;
+}
+
+div {
+    color:black;
+    border: 10px solid black;
+    margin-bottom: 30px;
+    font-style: italic;
+    padding: 10px;
+    box-shadow: 10px 10px 10px 10px;
+}
